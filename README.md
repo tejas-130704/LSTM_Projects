@@ -7,8 +7,7 @@ This repository contains multiple projects focused on different applications of 
 ### 1. **Next Word Prediction**
 - A Streamlit-based application that predicts the next word based on user input.
 - Utilizes a trained LSTM model for accurate predictions.
-- [Detailed README](./Predicting Next Word/Readme.md)
-  
+
 
   ![Screenshot 2025-01-22 211312](https://github.com/user-attachments/assets/8639568e-3c82-4e58-b548-7e2675c32995)
 
